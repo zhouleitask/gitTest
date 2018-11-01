@@ -5,5 +5,6 @@ public class rep1 {
         System.out.println("33333333*******");
         System.out.println("2222222222222");
         System.out.println("4444444############");
+        System.out.println("55555");
     }
 }
